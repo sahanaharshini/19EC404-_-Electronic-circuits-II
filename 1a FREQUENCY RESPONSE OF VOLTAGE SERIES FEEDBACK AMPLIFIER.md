@@ -13,12 +13,15 @@
 <img width="617" height="393" alt="image" src="https://github.com/user-attachments/assets/77ad03ce-ee9e-4a7e-950b-eeaad0aaa300" />
 
 ## Tabulation
+<img width="1168" height="1280" alt="image" src="https://github.com/user-attachments/assets/8c19b86f-d4bb-4761-b04e-db79f7704948" />
 
 
 ## Graph
+<img width="1280" height="1004" alt="image" src="https://github.com/user-attachments/assets/a58b472c-3e8e-45a6-970f-54ec42daadbd" />
 
 
 ## Sample images 
+![511911166-1c6bf98f-4205-41aa-a75e-36aca65838d6](https://github.com/user-attachments/assets/8c1e677a-cda7-4a46-9100-1cad4e2e2e4d)
 
 
 ## **Result**
@@ -27,11 +30,11 @@ The following parameters are calculated:
 
 | S.No | Parameters | Without Feedback | With Feedback |
 |:----:|-------------|:----------------:|:--------------:|
-| 1 | Lower cut-off frequency | = | = |
-| 2 | Upper cut-off frequency | = | = |
-| 3 | Bandwidth | \( BW = fh - fl = \) | \( BW = f'h - f'l = \) |
-| 4 | Mid-band Gain | \( A{v(mid)} = \) | \( A'{v(mid)} = \) |
-| 5 | Gain at half power point |  |  |
+| 1 | Lower cut-off frequency | =0.28Khz | =0.24Khz |
+| 2 | Upper cut-off frequency | =1.4Khz | =2.7Mhz |
+| 3 | Bandwidth | \( BW = fh - fl =1.39Mhz \) | \( BW = f'h - f'l =2.6Mhz \) |
+| 4 | Mid-band Gain | \( A{v(mid)} =21 \) | \( A'{v(mid)} =17.04 \) |
+| 5 | Gain at half power point | 4.84 | 12.08 |
 ---
 **Conclusion:**  
 The frequency response of the voltage-series feedback amplifier was studied. It was observed that the **gain decreases** while the **bandwidth increases** when negative feedback is applied, confirming the theoretical expectations.
