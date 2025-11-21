@@ -15,12 +15,15 @@
 <img width="689" height="382" alt="image" src="https://github.com/user-attachments/assets/0ce0d0fa-b220-4727-bdc4-d6a9b06bd56c" />
 
 # Tabulation
+<img width="1080" height="936" alt="image" src="https://github.com/user-attachments/assets/a34cfc0f-f44a-4e03-a94c-8630ecaaa605" />
 
 
 # Graph
+<img width="1255" height="946" alt="image" src="https://github.com/user-attachments/assets/ca0c315b-e3a2-484f-822f-ffd5bb68a2c0" />
 
 
 # Sample images 
+![511919206-419c3066-d988-4652-9721-4649e09eeeaa](https://github.com/user-attachments/assets/b80730ba-8231-437d-bc25-6c614e5d8287)
 
 
 ### **Result**
@@ -28,11 +31,11 @@
 Thus the voltage shunt feedback amplifier is designed and constructed  and the following parameters are calculated.
 | S.No | Parameters | Without Feedback | With Feedback |
 |:----:|-------------|:----------------:|:--------------:|
-| 1 | Lower cut-off frequency | = | = |
-| 2 | Upper cut-off frequency | = | = |
-| 3 | Bandwidth | \( BW = fh - fl = \) | \( BW = f'h - f'l = \) |
-| 4 | Mid-band Gain | \( A{v(mid)} = \) | \( A'{v(mid)} = \) |
-| 5 | Gain at half power point |  |  |
+| 1 | Lower cut-off frequency | =0.45Khz | =0.37Khz |
+| 2 | Upper cut-off frequency | =500Khz | =1.5Mhz |
+| 3 | Bandwidth | \( BW = fh - fl = 4.99Khz\) | \( BW = f'h - f'l = 1499.63Khz\) |
+| 4 | Mid-band Gain | \( A{v(mid)} =25.52 \) | \( A'{v(mid)} =19.40 \) |
+| 5 | Gain at half power point | 18.04 |13.71  |
 
 ---
 
